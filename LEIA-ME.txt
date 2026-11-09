@@ -1,0 +1,20 @@
+MEU CONTROLE — versão web instalável (PWA)
+
+Inclui:
+- Salário mensal inicial de R$ 11.000, editável por mês.
+- Saldo = salário previsto + outras entradas - despesas.
+- Registro de gastos e entradas, categoria e data.
+- Histórico mensal e exclusão de lançamentos.
+- Armazenamento local no navegador do aparelho.
+
+COMO COLOCAR NO IPHONE:
+1. Publique todos os arquivos desta pasta em uma hospedagem HTTPS estática (por exemplo, GitHub Pages).
+2. Abra o endereço HTTPS no Safari do iPhone.
+3. Toque em Compartilhar > Adicionar à Tela de Início.
+4. Confirme o nome Meu Controle.
+
+IMPORTANTE:
+- O ZIP é o pacote do aplicativo web, não um app já instalado nem publicado na App Store.
+- O app precisa ser servido por HTTPS para instalação PWA e funcionamento offline confiável.
+- Os dados ficam no armazenamento local do Safari/aplicativo web. Não há sincronização nem backup em nuvem nesta versão.
+- Limpar os dados do site ou remover o app pode apagar os registros. Exporte/guarde backup antes de limpar o navegador.
